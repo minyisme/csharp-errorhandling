@@ -1,0 +1,7 @@
+C:\Users\v-miyan\source\repos\ErrorThrowingTest\ErrorThrowingTest\bin\Debug\ErrorThrowingTest.exe.config
+C:\Users\v-miyan\source\repos\ErrorThrowingTest\ErrorThrowingTest\bin\Debug\ErrorThrowingTest.exe
+C:\Users\v-miyan\source\repos\ErrorThrowingTest\ErrorThrowingTest\bin\Debug\ErrorThrowingTest.pdb
+C:\Users\v-miyan\source\repos\ErrorThrowingTest\ErrorThrowingTest\obj\Debug\ErrorThrowingTest.csprojAssemblyReference.cache
+C:\Users\v-miyan\source\repos\ErrorThrowingTest\ErrorThrowingTest\obj\Debug\ErrorThrowingTest.csproj.CoreCompileInputs.cache
+C:\Users\v-miyan\source\repos\ErrorThrowingTest\ErrorThrowingTest\obj\Debug\ErrorThrowingTest.exe
+C:\Users\v-miyan\source\repos\ErrorThrowingTest\ErrorThrowingTest\obj\Debug\ErrorThrowingTest.pdb
